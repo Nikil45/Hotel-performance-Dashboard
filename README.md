@@ -66,7 +66,7 @@ The rating is moderate — not poor, but definitely not excellent.
 This aligns with the high number of complaints and low resolution rate, suggesting that service quality improvements are necessary.
 
 ## Dashboard Preview
-<img width="1412" height="793" alt="image" src="https://github.com/user-attachments/assets/ca54c2da-f067-4238-8599-d5118575b14f" />
+<img width="1411" height="792" alt="image" src="https://github.com/user-attachments/assets/d13aaf99-036f-4972-985e-f841a5e9d771" />
 
 ## Business Decisions
 
