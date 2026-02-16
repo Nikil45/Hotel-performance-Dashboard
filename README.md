@@ -97,4 +97,6 @@ Regular staff training sessions should be conducted, and guest feedback should b
 Currently, revenue per guest is 492.93, which has room for improvement.
 The hotel can introduce add-on services, bundle packages, and encourage upselling at check-in to increase overall guest spending.
 
+## Conclusion
 
+This dashboard helps management make data-driven decisions to improve revenue, service quality, and overall hotel performance.
